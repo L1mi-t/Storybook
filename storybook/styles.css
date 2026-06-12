@@ -1,8 +1,0 @@
-
-body{margin:0;height:100vh;display:flex;flex-direction:column;background:#e8e1d1;font-family:Georgia,serif}
-.toolbar{padding:10px;display:flex;gap:10px;justify-content:center}
-.book{flex:1;display:grid;grid-template-columns:1fr 1fr;margin:10px;border:1px solid #aaa;background:#f9f4e8;border-radius:6px}
-.page{padding:25px;overflow:hidden;white-space:pre-wrap;line-height:1.6}
-.page:first-child{border-right:1px solid #d0d0d0}
-.footer{text-align:center;padding:8px}
-button,select{padding:8px 12px}
